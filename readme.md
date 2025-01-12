@@ -1,4 +1,5 @@
 ## OKX 2.1.0
+# TODO translation to Hyndi
 
 安装：
 
